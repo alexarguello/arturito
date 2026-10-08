@@ -130,4 +130,4 @@ hermes config edit      # open your config file
 
 MIT. See [LICENSE](LICENSE).
 
-Built by [Alex Arguello](https://github.com/alexarguello). Fork it. Make it yours.
+Built by [Alexandra Arguello](https://github.com/alexarguello). Fork it. Make it yours.
